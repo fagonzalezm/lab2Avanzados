@@ -1,0 +1,45 @@
+.I 1
+.T
+aa
+AA
+AA
+.A
+bb
+BB
+.B
+cc
+CC
+.W
+dd
+DD
+.I 2
+.T
+ee
+EE
+.A
+ff
+FF
+.B
+gg
+GG
+.W
+AA
+BB
+aa
+hh
+HH
+.I 3
+.T
+ii
+.A
+jj
+.B
+kk
+.W
+ll
+.I 4
+.T
+.A
+AA
+.B
+.W
